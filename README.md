@@ -1,12 +1,22 @@
 # MYMultishopMicroservices
-==KULLANILAN TEKNOLOJİLER==
 
-=> ASP.NET CORE 8
-=> ASP.NET CORE WEP API
-
-==> MongoDb
-==> MsSql Server
+Proje açıklaması eklenecek.
 
 
-32. ders itibari ile Discount Service eklendi. Dapper orm kullanıldı ve localdb mssqql bağlantısı ile crud işlemleri yapıldı.
-25. ders itibari ile Catalog Service MongoDb kullanılarak yapıldı.
+
+## Kullanılan Teknolojiler
+
+- ASP.NET Core Web API
+- Veritabanları
+    - MongoDB
+    - MsSQL
+- ORM'ler
+    - Dapper
+    - Entity FrameWork
+
+## Yol haritası
+
+- Ders32: Discount Service eklendi. Dapper orm kullanıldı ve localdb mssqql bağlantısı ile crud işlemleri yapıldı.
+- Ders25: Catalog Service MongoDb kullanılarak yapıldı.
+
+
